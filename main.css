@@ -1,0 +1,21 @@
+body{
+  padding: 5rem;
+}
+/* Styling the header */
+
+header{
+  display: flex;
+  flex-direction: row;
+}
+/* Styling the navigation */
+
+a{
+  color: black;
+  text-decoration: none;
+}
+
+.naviagtion{
+  font-family: Arial, Helvetica, sans-serif;
+  width: 35%;
+  margin-left: auto;
+}
